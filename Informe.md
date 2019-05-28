@@ -4,7 +4,7 @@ Algoritmos y Estructuras de Datos
 Trabajo Final
 -------------
 
-###Equipo de Trabajo
+### Equipo de Trabajo
 * William Angulo
 * CAR7
 ### Introduccion
